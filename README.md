@@ -18,6 +18,15 @@ When opening an issue anywhere in our organization, please select the appropriat
 
 ---
 
+## Development & Engineering Guides
+
+Use the following links to review our global engineering processes, standards, and practices before contributing to code:
+
+### Workflows & Git Standards
+*   **[Conventional Commits Guide](./workflow-guides/conventional-commits.md):** Learn how to properly use `feat:`, `fix:`, and `style:` prefixes in your commit history.
+
+---
+
 ## How to Add Project-Specific Templates
 
 If a specific project requires an issue layout that deviates from these global defaults:
