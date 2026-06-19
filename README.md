@@ -13,14 +13,14 @@ When opening an issue anywhere in our organization, please select the appropriat
 *   **Bug Report (`fix:`)** - For reporting broken or unintended behavior in application logic.
 *   **Feature Request (`feat:`)** - For proposing completely new features or business capabilities.
 *   **Documentation Update (`docs:`)** - For correcting, expanding, or adding project documentation.
-*   **Enhancement & Polish (`style:`)** - For minor UI updates, tweaks, or improvements to existing features.
+*   **Enhancement and Polish (`style:`)** - For minor UI updates, tweaks, or improvements to existing features.
 *   **Code Refactoring (`refactor:`)** - For improving structural code health and cleaning technical debt.
 
 ---
 
 ## Development and Engineering Guides
 
-Use the following links to review our global engineering processes, standards, and practices before contributing to code:
+Use the following links to review our global engineering processes, standards, and practices:
 
 ### Workflows and Git Standards
 *   **[Conventional Commits Guide](./workflow-guides/conventional-commits.md):** Learn how to properly use `feat:`, `fix:`, and `style:` prefixes in your commit history.
