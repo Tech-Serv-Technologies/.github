@@ -1,4 +1,4 @@
-# TechServ Standards & Templates Central Repo
+# TechServ Standards and Templates Central Repo
 
 Welcome to the central engineering hub for our organization. This repository houses global issue templates, development standards, and architectural guidelines shared across all team projects.
 
@@ -18,7 +18,7 @@ When opening an issue anywhere in our organization, please select the appropriat
 
 ---
 
-## Development & Engineering Guides
+## Development and Engineering Guides
 
 Use the following links to review our global engineering processes, standards, and practices before contributing to code:
 
