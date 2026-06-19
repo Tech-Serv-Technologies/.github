@@ -22,7 +22,7 @@ When opening an issue anywhere in our organization, please select the appropriat
 
 Use the following links to review our global engineering processes, standards, and practices before contributing to code:
 
-### Workflows & Git Standards
+### Workflows and Git Standards
 *   **[Conventional Commits Guide](./workflow-guides/conventional-commits.md):** Learn how to properly use `feat:`, `fix:`, and `style:` prefixes in your commit history.
 
 ---
